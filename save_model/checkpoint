@@ -1,0 +1,6 @@
+model_checkpoint_path: "Breakout-v0-58875000.ckpt"
+all_model_checkpoint_paths: "Breakout-v0-58440000.ckpt"
+all_model_checkpoint_paths: "Breakout-v0-58710000.ckpt"
+all_model_checkpoint_paths: "Breakout-v0-58820000.ckpt"
+all_model_checkpoint_paths: "Breakout-v0-58850000.ckpt"
+all_model_checkpoint_paths: "Breakout-v0-58875000.ckpt"
